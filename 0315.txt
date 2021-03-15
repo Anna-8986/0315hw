@@ -1,0 +1,4 @@
+$ npm init
+$ npm install express -s
+$ npm i dotenv -s
+$ npm i @babel/cli @babel/core @babel/node @babel/plugin-proposal-object-reset-spread @babel/plugin-transform-runtime @babel/preset-env @babel/register --save-dev
